@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.name_pic{
+    padding: 50px 220px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.name_pic img{
+    border-radius: 50%;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+
+.nav_links a{
+    list-style: none;
+    text-decoration: none;
+    margin: 0 40px;
+    font-size: 20px;
+}
+
+.info{
+    padding: 50px 210px;
+}
+
+.personal_info p{
+    margin-top: 10px;
+}
+
+.image img{
+    height: 200px;
+    width: 200px;
+    margin: 20px 0;
+}
+
+.form{
+    padding: 100px 30%;
+}
+
+.form label{
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: #FF6464;
+    color: white;
+    height: 30px;
+    width: 80px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 30px;
+}
+
+.form input{
+    margin-bottom: 20px;
+}
+
+.form textarea{
+    margin-bottom: 20px;
+}
+
+.form_head{
+    padding: 0 30%;
+}
+
+
+
